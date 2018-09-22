@@ -1,7 +1,8 @@
 package hw2;
 
 /**
- * @author KEYmaster A CostCalculator calculates parking rates for the parking
+ * @author Andrei Baechle
+ *         A CostCalculator calculates parking rates for the parking
  *         garage.
  */
 public class CostCalculator extends java.lang.Object {
