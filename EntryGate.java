@@ -1,7 +1,8 @@
 package hw2;
 
 /**
- * @author KEYmaster An EntryGate generates new tickets having a start time
+ * @author Andrei Baechle
+ *         An EntryGate generates new tickets having a start time
  *         determined by the internal clock.
  */
 public class EntryGate {
