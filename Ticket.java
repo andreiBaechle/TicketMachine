@@ -2,7 +2,8 @@ package hw2;
 
 /**
  * 
- * @author KEYmaster A Ticket models a parking ticket that records the time of
+ * @author Andrei Baechle
+ *         A Ticket models a parking ticket that records the time of
  *         entry, the time of payment and validation of ticket. Time is assumed
  *         to be represented in minutes as a single integer.
  */
