@@ -1,7 +1,8 @@
 package hw2;
 
 /**
- * @author KEYmaster An ExitGate checks a ticket and determines whether its
+ * @author Andrei Baechle
+ *         An ExitGate checks a ticket and determines whether its
  *         payment time allows the holder to exit.
  */
 public class ExitGate {
