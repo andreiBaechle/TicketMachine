@@ -3,8 +3,7 @@ package hw2;
 /**
  * A TimeCalculator serves as a simple clock counter to simulate the passage of time. Time is assumed 
  * to be in minutes, represented as a single integer.
- * @author KEYmaster
- *
+ * @author Andrei Baechle 
  */
 public class TimeCalculator {
 	
