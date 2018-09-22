@@ -1,7 +1,9 @@
 package hw2;
 
 /**
- * @author KEYmaster A TicketMachine has methods allowing a Ticket object to be
+ * @author Andrei Baechle
+ *
+ *          A TicketMachine has methods allowing a Ticket object to be
  *         updated to show when payment is made. There is a method
  *         insertTicket() to simulate inserting a ticket into the machine. At
  *         that point a transaction is said to be "in progress", and the
